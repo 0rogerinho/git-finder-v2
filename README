@@ -1,0 +1,4 @@
+[x] manter tamanho do botão de busca fixo
+[x] quando clicar para salvar usuário em uma pasta, caso não possua nenhuma pasta o usuário poderá criar uma
+[] refatora logica de salvar e editar perfil
+[] {bug} não permitir que o usuário crie pastas repetidas
